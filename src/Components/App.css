@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgba(2, 68, 68, 0.89);
+}
+h3 {
+  font-size: 2.5em;
+  font-weight: 600;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: underline;
+  color: rgb(149, 145, 145);
+  margin-top: 30px;
+}
